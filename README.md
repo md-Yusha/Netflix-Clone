@@ -34,23 +34,28 @@ This project aims to recreate the look and feel of Netflix’s homepage. It incl
 
 3.	Open the index.html file in your browser to view the project.
 
-    Technologies Used
+    # Technologies Used
 	•	HTML5: For the structure of the webpage.
 	•	CSS3: For styling and responsiveness.
 	•	Google Fonts: To enhance typography.
 
-    Screenshots
+    # Screenshots
 
-    
+<img width="258" alt="Screenshot 2024-12-29 at 7 47 43 AM" src="https://github.com/user-attachments/assets/a0213b6e-a43e-41c1-8b26-f4120638498f" />
+![headhtml](https://github.com/user-attachments/assets/55217098-8c97-4174-982b-556287730d9f)
+![body1](https://github.com/user-attachments/assets/d302b62a-f044-4f34-a753-8ad1de0f0eb2)
+![fontimp](https://github.com/user-attachments/assets/bb59dcc9-d7cf-48a3-89b6-097108a8cf7e)
+![css](https://github.com/user-attachments/assets/af3a6744-e591-4564-ab89-b97c863668de)
 
-About Me
+
+### About Me
 
 Name: Mohammad Yusha
 Branch: Artificial Intelligence & Machine Learning (AIML)
 USN: 1MJ23AI021
 Section: B (Software Development Course)
 
-License
+# License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
